@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vylonvygh/vylonvygh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/office-worker.png" width="100" alt="Logo">
 
-Here are some ideas to get you started:
+### ***Yo, I'm Vylon. Just happen to be here***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GitLab is my **main** home · GitHub is my **backup**
+
+[GitLab](https://gitlab.com/vylonvy_gl) · [GitHub](https://github.com/vylonvygh)
+
+<!-- <img src="./assets/flow.svg" width="100%" height="2" alt="Flow"> -->
+
+</div>
